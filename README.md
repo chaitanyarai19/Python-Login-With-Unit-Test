@@ -9,7 +9,13 @@
 - Unit testing: Unit tests are provided to verify the correctness of the application.
 
 ## Getting Started
-Prerequisites
-Python 3.x
-Flask
-Installation
+# Prerequisites
+
+- Python 3.x
+- Flask
+- 
+## Installation
+1. Clone the repository to your local machine:
+```
+git clone https://github.com/yourusername/your-login-project.git
+```
