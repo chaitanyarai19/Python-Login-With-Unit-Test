@@ -59,3 +59,13 @@ If you'd like to contribute to this project, please follow these steps:
 - Make your changes and commit them with clear, concise messages.
 - Push your branch to your fork.
 - Create a pull request to the main repository.
+
+## License
+- This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+- Flask for providing a lightweight web framework for this project.
+- Python's unit test module for creating unit tests.
+  
+## Contact
+- For any questions or feedback, feel free to contact the project maintainer: Your Name.
