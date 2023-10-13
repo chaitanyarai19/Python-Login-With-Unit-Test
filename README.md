@@ -19,3 +19,13 @@
 ```
 git clone https://github.com/yourusername/your-login-project.git
 ```
+2. Navigate to the project directory:
+```
+cd your-login-project
+```
+3. Install the required dependencies:
+```
+pip install Flask
+```
+## Running the Application
+1. Run the Flask application:
