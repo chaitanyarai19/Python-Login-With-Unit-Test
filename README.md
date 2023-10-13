@@ -11,19 +11,19 @@
 ## Getting Started
 # Prerequisites
 
-- Python 3.x
+- Python 3
 - Flask
 - 
 ## Installation
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/yourusername/your-login-project.git
+git clone https://github.com/chaitanyarai19/Python-Login-With-Unit-Test.git
 ```
 2. Navigate to the project directory:
 ```
-cd your-login-project
+cd Python-Login-With-Unit-Test
 ```
-3. Install the required dependencies:
+3. Install the required dependencies: (open terminal)
 ```
 pip install Flask
 ```
@@ -36,7 +36,7 @@ python app.py
 
 ## Running Unit Tests
 
-1. Run the unit tests:
+1. Run the unit tests:(open terminal)
 ```
 python tests.py
 ```
@@ -68,4 +68,4 @@ If you'd like to contribute to this project, please follow these steps:
 - Python's unit test module for creating unit tests.
   
 ## Contact
-- For any questions or feedback, feel free to contact the project maintainer: Your Name.
+- For any questions or feedback, feel free to contact the project maintainer: @chaitanyarai19
